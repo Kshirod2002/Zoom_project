@@ -2,14 +2,13 @@ import axios from "axios";
 import httpStatus from "http-status";
 import { createContext, useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
-//import server from "../environment";
 
 
 export const AuthContext = createContext({});
 
 const client = axios.create({
-   // baseURL: `${server}/api/v1/users`
-   baseURL:"http://localhost:8000/api/v1/users"
+
+   baseURL:"https://zoom-project-backend-8kc5.onrender.com/api/v1/users"
 })
 
 
