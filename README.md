@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/cb9ee480-3b7e-419e-80f9-6e2e8971c694)
 Render: https://zoom-project-frontend-gyov.onrender.com
 
 # Zoom Clone Project
